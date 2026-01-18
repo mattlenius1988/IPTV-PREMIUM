@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,INIT CHANNEL
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8
+
 #EXTINF:-1 tvg-name="Pluto TV Action" group-title="Pluto cinema USA",Pluto TV Action
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8
 
@@ -8,9 +11,3 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6e
 
 #EXTINF:-1 tvg-name="Pluto TV Horror" group-title="Pluto cinema USA",Pluto TV Horror
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8
-
-#EXTINF:-1 tvg-name="Pluto TV Thrillers" group-title="Pluto cinema USA",Pluto TV Thrillers
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8
-
-#EXTINF:-1 tvg-name="Pluto TV Westerns" group-title="Pluto cinema USA",Pluto TV Westerns
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8
